@@ -1,61 +1,67 @@
-# [Your Name] - Data Analysis Portfolio
+# README.md
 
-Welcome! This repository contains the complete template for a professional, one-page data analysis portfolio website, hosted for free on GitHub Pages.
+# Prisha Chowdhury - Data Science & Applied AI Portfolio
 
-## About This Portfolio Template
+Welcome! This repository contains my personal portfolio website, built to showcase my work in **machine learning, analytics, applied AI, and data storytelling**.
 
-This portfolio is designed to demonstrate skills in:
-- Data visualization and storytelling
-- Data modeling and analysis
-- Creating interactive, professional dashboards
-- Transforming complex data into actionable insights
+## About This Portfolio
 
-## 🚀 Projects
+I'm a UCLA student studying **Data Theory** with a minor in **Data Science Engineering**. My portfolio highlights projects where I turn messy, real-world datasets into structured analyses, interpretable models, dashboards, and actionable insights.
 
-This template is set up to showcase your best work. You can easily customize the project cards in the `index.html` file.
+This portfolio is designed to showcase work in:
 
-### Project Title One
-*A brief description of your project, the tools used, and the key insights derived.*
+* Machine learning and predictive modeling
+* Data analysis and storytelling
+* Healthcare and public-interest analytics
+* Reproducible workflows and MLOps
+* Clear communication of technical results
 
-### Project Title Two
-*A brief description of your project, the tools used, and the key insights derived.*
+## 🚀 Featured Projects
 
-### Project Title Three
-*A brief description of your project, the tools used, and the key insights derived.*
+### Diabetes Prevalence Trend Analysis
 
+Led a 6-person team working with WHO data across 200+ countries and 20 years to model how obesity trends drive diabetes prevalence. Built a predictive model with **Test R² = 0.603** and **CV R² = 0.702**, and translated results into a live dashboard.
+
+### Patient Care Journey Analysis | UCLA DataFest
+
+Analyzed **54K+ patient admissions** using Python and SQL to identify treatment burden patterns and access barriers. Applied logistic regression and clustering to predict follow-up compliance with **82% accuracy**, and the team ranked **Top 5 out of 87 teams**.
+
+### Housing Price Prediction
+
+Built a statistical model in R for **7,000 properties**, improving **R² from 0.43 to 0.64**, and documented the major drivers of housing prices through feature engineering and structured analysis.
+
+### NYC Restaurant Health Inspection Analysis
+
+Analyzed **292K+ inspection records** and used hypothesis testing to identify recurring violation patterns, including a **77.6% recurrence rate**, to support data-driven policy insights.
 
 ## 🛠️ Skills
 
-Update the `index.html` file to reflect your personal technical skillset. The template is organized into key categories:
+This portfolio reflects my work across:
 
-- **Data Visualization**: Power BI, Tableau, Matplotlib, etc.
-- **Data Analysis**: SQL, Python (Pandas), R, Excel, etc.
-- **Data Modeling**: Power Query, DAX, Star Schema Design, etc.
-- **Tools**: List any other relevant tools like Power BI Service, specific cloud platforms, etc.
+* **Languages:** Python, SQL, R, Java, C++, JavaScript
+* **Libraries & Tools:** Pandas, NumPy, scikit-learn, Jupyter, Docker, MLflow, Git/GitHub
+* **Data Work:** Statistical modeling, machine learning, feature engineering, A/B testing, trend analysis
+* **Visualization & Reporting:** Tableau, Canva, technical reporting, stakeholder presentations
 
-## 💡 How to Use This Template
+## 💡 Website Notes
 
-Creating your own portfolio from this template is a simple, four-step process.
+This website is built as a single-page portfolio and can be hosted on **GitHub Pages**.
 
-### 1. Create a New Repository from this Template
-Click the green **"Use this template"** button at the top of this repository page, then select **"Create a new repository"**.
+To customize further:
 
-### 2. Name Your Repository for GitHub Pages
-This is the most important step. To turn your portfolio into a live website, you **must** name your new repository in the following format:
-`your-username.github.io`
-*(Replace `your-username` with your actual GitHub username.)*
+* Replace project cover images with your own screenshots in `assets/images/`
+* Upload your resume PDF into `assets/`
+* Add your favicon
+* Update project links as you publish more work
 
-### 3. Customize Your Portfolio
-Open the `index.html` file and begin personalizing it. The file contains helpful `<!--💡UPDATE: ... -->` comments to guide you on where to change:
-- Your name and title
-- Social media links
-- The "About Me" section
-- Your project titles, descriptions, and links
-- Your list of skills
+## 🌐 Live Website
 
-### 4. Add Your Files
-- Upload your profile photo and project preview images to the `assets/images/` folder.
-- Upload your CV (e.g., in PDF format) to the `assets/` folder.
-- Create your favicon and add it to the root folder.
+Once published with GitHub Pages, the site will be live at:
 
-Once you commit your changes, your new portfolio website will be live at `https://your-username.github.io` within a few minutes!
+`https://your-username.github.io`
+
+## 📫 Contact
+
+* **Email:** [prisha4@ucla.edu](mailto:prisha4@ucla.edu)
+* **LinkedIn:** https://www.linkedin.com/in/prisha-chowdhury/
+* **GitHub:** https://github.com/PrishaChowdhury
