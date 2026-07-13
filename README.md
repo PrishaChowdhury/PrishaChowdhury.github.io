@@ -43,22 +43,12 @@ This portfolio reflects my work across:
 * **Data Work:** Statistical modeling, machine learning, feature engineering, A/B testing, trend analysis
 * **Visualization & Reporting:** Tableau, Canva, technical reporting, stakeholder presentations
 
-## 💡 Website Notes
-
-This website is built as a single-page portfolio and can be hosted on **GitHub Pages**.
-
-To customize further:
-
-* Replace project cover images with your own screenshots in `assets/images/`
-* Upload your resume PDF into `assets/`
-* Add your favicon
-* Update project links as you publish more work
 
 ## 🌐 Live Website
 
 Once published with GitHub Pages, the site will be live at:
 
-`https://your-username.github.io`
+`https://PrishaChowdhury.github.io`
 
 ## 📫 Contact
 
